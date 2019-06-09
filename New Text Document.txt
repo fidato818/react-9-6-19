@@ -1,0 +1,11 @@
+best practice 
+sare action aur reducers ko module wise break karen ge.
+
+
+dialogflow: chatbot
+
+
+
+2 weeks project
+1 week ui
+1 week functionality
